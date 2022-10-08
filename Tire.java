@@ -1,0 +1,7 @@
+package Carros;
+
+/**
+ **/
+class Tire {
+    
+}
